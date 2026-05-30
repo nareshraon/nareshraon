@@ -1,221 +1,170 @@
-<div align="center">
+# 👋 Hi, I'm Naresh Rao
 
-# 🚀 Naresh Rao
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=800&lines=Business+Analyst;Scrum+Master;Data+Analyst;Infrastructure+Enthusiast;Cybersecurity+Learner;Automation+Builder;Home+Lab+Engineer" />
-
-### Turning Business Problems into Technical Solutions
-
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME)
-![GitHub followers](https://img.shields.io/github/followers/YOUR_USERNAME)
-![GitHub stars](https://img.shields.io/github/stars/YOUR_USERNAME?affiliations=OWNER)
-
-</div>
+### Infrastructure Enthusiast | Cybersecurity Learner | Automation Builder | Intraday Trader
 
 ---
 
-# 👨‍💻 Who Am I?
+## 🚀 About Me
 
-```text id="97ybv4"
-Business Analyst      📊
-Scrum Master          🏃
-Data Analyst          📈
-Infrastructure Lab    🖥️
-Cybersecurity         🔐
-Automation Builder    ⚙️
-Entrepreneur          🚀
+I enjoy building home labs, exploring enterprise technologies, automating workflows, and understanding how systems operate behind the scenes.
+
+My interests span infrastructure, networking, virtualization, storage, cybersecurity, and trading analytics. Most of my learning happens through hands-on experimentation, documentation, and practical projects.
+
+---
+
+## 🎯 Current Focus
+
+* 🖥️ Infrastructure Engineering
+* 🌐 Networking
+* 🔐 Cybersecurity
+* ⚙️ Automation & n8n
+* 💾 Storage Technologies
+* 📊 Trading Analytics
+
+---
+
+## 🏠 Home Lab
+
+```text
+Internet
+   │
+pfSense
+   │
+├── Windows Server
+├── Windows Client
+├── Linux
+├── Proxmox
+├── Hyper-V
+└── TrueNAS
 ```
 
-I enjoy solving business and technical challenges by combining analytical thinking, automation, infrastructure knowledge, and continuous learning.
+### Technologies Practiced
+
+* Active Directory
+* DNS
+* DHCP
+* SMB
+* VPN
+* Virtualization
+* Storage Management
+* Backup Strategies
+* Network Troubleshooting
 
 ---
 
-# 🏗️ Featured Projects
+## 🔐 Cybersecurity
 
-## 📊 Business Analysis Portfolio
-
-### Customer Churn Analysis
-
-* Requirement Gathering
-* Stakeholder Mapping
-* KPI Definition
-* Process Improvement
-* Root Cause Analysis
-* Executive Dashboard
-
-### Sales Intelligence Dashboard
-
-* Revenue Trends
-* Customer Segmentation
-* Forecasting
-* Business Reporting
-
-### Requirement Documentation
-
-* BRD
-* FRD
-* User Stories
-* Acceptance Criteria
-* Process Flow Diagrams
-
----
-
-## 🏃 Scrum Master Portfolio
-
-### Agile Delivery Simulation
-
-* Sprint Planning
-* Sprint Review
-* Sprint Retrospective
-* Backlog Refinement
-* Story Point Estimation
-* Risk Tracking
-* Velocity Monitoring
-
-Tools:
-
-```text id="q5y8e2"
-Jira
-Confluence
-Azure DevOps
-Trello
-Miro
+```text
+Log Analysis
+Network Monitoring
+Traffic Inspection
+Security Hardening
+Vulnerability Assessment
+Incident Response Concepts
 ```
 
----
+### Learning Areas
 
-## 📈 Data Analytics Portfolio
-
-### Retail Analytics Dashboard
-
-Skills Used:
-
-```text id="9m49uh"
-Excel
-Power BI
-SQL
-Python
-Data Cleaning
-Data Visualization
-Reporting
-```
-
-Deliverables:
-
-* Executive Dashboard
-* Sales Reports
-* Inventory Analysis
-* Customer Insights
-* Trend Analysis
+* Windows Security
+* Linux Security
+* Network Security
+* Security Operations (SOC)
+* Threat Detection
+* Risk Management
 
 ---
 
-## 🔐 Cybersecurity Projects
+## ⚙️ Automation
 
-### SOC Analyst Home Lab
+### n8n Workflows
 
-```text id="5w6gdr"
+* Automated Notifications
+* Report Generation
+* Data Collection
+* Process Automation
+* AI Assisted Workflows
+
+---
+
+## 📊 Trading Analytics
+
+### Areas of Interest
+
+* Intraday Trading
+* Risk Management
+* Trading Journals
+* Performance Tracking
+* Strategy Documentation
+* Market Analysis
+
+---
+
+## 🛠️ Tools & Technologies
+
+### Infrastructure
+
+```text
 Windows Server
 Linux
-SIEM
-Log Analysis
-Threat Detection
-Incident Investigation
-```
-
-Projects:
-
-* Security Monitoring
-* Event Log Analysis
-* Vulnerability Assessment
-* Network Traffic Investigation
-* Security Hardening
-
----
-
-## 🖥️ Infrastructure Projects
-
-### Enterprise Home Lab
-
-```text id="3h8z1j"
 Hyper-V
 Proxmox
 TrueNAS
 pfSense
-Windows Server
-Linux
 ```
 
-Projects:
+### Automation
 
-* Active Directory Lab
-* DNS Deployment
-* DHCP Configuration
-* File Server
-* Backup Infrastructure
-* Storage Management
-* Virtualization Environment
+```text
+n8n
+Git
+GitHub
+PowerShell
+Python
+```
 
----
+### Networking
 
-## ⚙️ Automation Projects
-
-### n8n Workflows
-
-* Lead Management
-* CRM Automation
-* Marketing Automation
-* Report Generation
-* Ticket Routing
-* Notification Systems
-
----
-
-# 📚 Knowledge Areas
-
-<p align="center">
-
-Infrastructure • Networking • Storage • Cybersecurity • Agile • Scrum • Business Analysis • Data Analytics • Automation • Cloud Fundamentals
-
-</p>
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact" />
-
-</p>
-
----
-
-# 🎯 Current Mission
-
-```yaml id="ikm6tb"
-Build Home Labs
-Learn Enterprise Technologies
-Practice Agile Delivery
-Develop Analytics Projects
-Explore Cybersecurity
-Create Business Solutions
-Launch Ventures
+```text
+TCP/IP
+DNS
+DHCP
+ICMP
+VPN
+SMB
+FTP
+SSH
 ```
 
 ---
 
-# ⚡ Philosophy
+## 📂 Featured Repositories
 
-"Technology is useful when it solves a business problem."
+| Repository         | Description                              |
+| ------------------ | ---------------------------------------- |
+| Homelab            | Infrastructure & virtualization projects |
+| Cybersecurity-Labs | Security experiments and notes           |
+| n8n-Workflows      | Automation projects                      |
+| Trading-Journal    | Trading analytics and documentation      |
+| Proxmox-Lab        | Virtualization experiments               |
+| TrueNAS-Lab        | Storage and backup projects              |
 
-<div align="center">
+---
 
-⭐ Building | Learning | Automating | Analyzing ⭐
+## 📚 Philosophy
 
-</div>
+> Learn → Build → Break → Fix → Document → Improve
+
+---
+
+## 📫 Connect
+
+* GitHub: https://github.com/YOUR_USERNAME
+* LinkedIn: YOUR_LINKEDIN_URL
+
+---
+
+⭐ Always learning. Always building.
+
 
 
 <!--
