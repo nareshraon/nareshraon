@@ -1,118 +1,222 @@
-## Hi there 👋
-# Hi there 👋, I'm Naresh Rao
+<div align="center">
 
-## 🚀 About Me
+# 🚀 Naresh Rao
 
-I'm a technology enthusiast with a background in Electronics & Telecommunication and a strong interest in Infrastructure, Networking, Storage, Automation, Cybersecurity, and Business Analysis.
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=800&lines=Business+Analyst;Scrum+Master;Data+Analyst;Infrastructure+Enthusiast;Cybersecurity+Learner;Automation+Builder;Home+Lab+Engineer" />
 
-I enjoy building home labs, experimenting with enterprise technologies, troubleshooting systems, and learning how modern IT environments operate behind the scenes.
+### Turning Business Problems into Technical Solutions
 
----
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME)
+![GitHub followers](https://img.shields.io/github/followers/YOUR_USERNAME)
+![GitHub stars](https://img.shields.io/github/stars/YOUR_USERNAME?affiliations=OWNER)
 
-## 🔧 What I'm Currently Working On
-
-* Building and maintaining home lab environments
-* Learning Proxmox, TrueNAS, and enterprise storage concepts
-* Practicing Windows Server and Linux administration
-* Exploring network engineering and troubleshooting
-* Automating workflows using n8n
-* Studying cybersecurity and infrastructure security fundamentals
+</div>
 
 ---
 
-## 🖥️ Home Lab Stack
+# 👨‍💻 Who Am I?
 
-```yaml
-Virtualization:
-  - Hyper-V
-  - VirtualBox
-  - Proxmox VE
+```text id="97ybv4"
+Business Analyst      📊
+Scrum Master          🏃
+Data Analyst          📈
+Infrastructure Lab    🖥️
+Cybersecurity         🔐
+Automation Builder    ⚙️
+Entrepreneur          🚀
+```
 
-Operating Systems:
-  - Windows Server
-  - Windows 10/11
-  - Linux
+I enjoy solving business and technical challenges by combining analytical thinking, automation, infrastructure knowledge, and continuous learning.
 
-Networking:
-  - DNS
-  - DHCP
-  - VPN
-  - SMB
-  - FTP
-  - TCP/IP
+---
 
-Storage:
-  - TrueNAS
-  - ZFS
-  - NAS Technologies
+# 🏗️ Featured Projects
 
-Automation:
-  - n8n
-  - Workflow Automation
+## 📊 Business Analysis Portfolio
+
+### Customer Churn Analysis
+
+* Requirement Gathering
+* Stakeholder Mapping
+* KPI Definition
+* Process Improvement
+* Root Cause Analysis
+* Executive Dashboard
+
+### Sales Intelligence Dashboard
+
+* Revenue Trends
+* Customer Segmentation
+* Forecasting
+* Business Reporting
+
+### Requirement Documentation
+
+* BRD
+* FRD
+* User Stories
+* Acceptance Criteria
+* Process Flow Diagrams
+
+---
+
+## 🏃 Scrum Master Portfolio
+
+### Agile Delivery Simulation
+
+* Sprint Planning
+* Sprint Review
+* Sprint Retrospective
+* Backlog Refinement
+* Story Point Estimation
+* Risk Tracking
+* Velocity Monitoring
+
+Tools:
+
+```text id="q5y8e2"
+Jira
+Confluence
+Azure DevOps
+Trello
+Miro
 ```
 
 ---
 
-## 📚 Areas of Interest
+## 📈 Data Analytics Portfolio
 
-* Infrastructure Engineering
-* System Administration
-* Network Engineering
-* Storage & NAS Technologies
-* Automation & RPA
-* Cybersecurity
-* Electronics Diagnostics
-* Mobile & Laptop Repair
-* Business Analysis
-* Digital Marketing Analytics
+### Retail Analytics Dashboard
 
----
+Skills Used:
 
-## 🛠️ Technologies & Tools
+```text id="9m49uh"
+Excel
+Power BI
+SQL
+Python
+Data Cleaning
+Data Visualization
+Reporting
+```
 
-* Windows Server
-* Linux
-* Hyper-V
-* Proxmox
-* TrueNAS
-* pfSense
-* Git
-* GitHub
-* Ansible
-* Cisco Packet Tracer
-* n8n
+Deliverables:
+
+* Executive Dashboard
+* Sales Reports
+* Inventory Analysis
+* Customer Insights
+* Trend Analysis
 
 ---
 
-## 🎯 Career Goals
+## 🔐 Cybersecurity Projects
 
-My goal is to build expertise across multiple technology domains and eventually leverage that knowledge to solve real-world business and technical problems.
+### SOC Analyst Home Lab
 
-Current focus areas:
+```text id="5w6gdr"
+Windows Server
+Linux
+SIEM
+Log Analysis
+Threat Detection
+Incident Investigation
+```
 
-* System Engineering
-* Infrastructure Engineering
-* Network Engineering
-* Storage Administration
-* Business Development
-* Entrepreneurship
+Projects:
+
+* Security Monitoring
+* Event Log Analysis
+* Vulnerability Assessment
+* Network Traffic Investigation
+* Security Hardening
 
 ---
 
-## 📈 Learning Philosophy
+## 🖥️ Infrastructure Projects
 
-> Learn → Build → Break → Fix → Document → Improve
+### Enterprise Home Lab
 
-I believe practical experimentation and continuous learning are the best ways to understand technology.
+```text id="3h8z1j"
+Hyper-V
+Proxmox
+TrueNAS
+pfSense
+Windows Server
+Linux
+```
+
+Projects:
+
+* Active Directory Lab
+* DNS Deployment
+* DHCP Configuration
+* File Server
+* Backup Infrastructure
+* Storage Management
+* Virtualization Environment
 
 ---
 
-## 📫 Connect With Me
+## ⚙️ Automation Projects
 
-* LinkedIn: Add your profile link
-* GitHub: https://github.com/YOUR_USERNAME
+### n8n Workflows
 
-Thanks for visiting my profile! ⭐
+* Lead Management
+* CRM Automation
+* Marketing Automation
+* Report Generation
+* Ticket Routing
+* Notification Systems
+
+---
+
+# 📚 Knowledge Areas
+
+<p align="center">
+
+Infrastructure • Networking • Storage • Cybersecurity • Agile • Scrum • Business Analysis • Data Analytics • Automation • Cloud Fundamentals
+
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact" />
+
+</p>
+
+---
+
+# 🎯 Current Mission
+
+```yaml id="ikm6tb"
+Build Home Labs
+Learn Enterprise Technologies
+Practice Agile Delivery
+Develop Analytics Projects
+Explore Cybersecurity
+Create Business Solutions
+Launch Ventures
+```
+
+---
+
+# ⚡ Philosophy
+
+"Technology is useful when it solves a business problem."
+
+<div align="center">
+
+⭐ Building | Learning | Automating | Analyzing ⭐
+
+</div>
+
 
 <!--
 **nareshraon/nareshraon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
