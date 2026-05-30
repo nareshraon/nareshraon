@@ -1,171 +1,184 @@
-# 👋 Hi, I'm Naresh Rao
+<div align="center">
 
-### Infrastructure Enthusiast | Cybersecurity Learner | Automation Builder | Intraday Trader
+# ⚡ NARESH RAO ⚡
 
----
+### 🖥️ Infrastructure | 🔐 Cybersecurity | 📊 Trading | 🚗 Automotive | ⚙️ Automation
 
-## 🚀 About Me
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Infrastructure+Engineer;System+Administrator;SOC+Analyst+Learner;Home+Lab+Builder;Automation+Enthusiast;Intraday+Trader;Automotive+Technology+Enthusiast;Always+Learning"/>
 
-I enjoy building home labs, exploring enterprise technologies, automating workflows, and understanding how systems operate behind the scenes.
-
-My interests span infrastructure, networking, virtualization, storage, cybersecurity, and trading analytics. Most of my learning happens through hands-on experimentation, documentation, and practical projects.
+</div>
 
 ---
 
-## 🎯 Current Focus
+# 🌍 Technology Universe
 
-* 🖥️ Infrastructure Engineering
-* 🌐 Networking
-* 🔐 Cybersecurity
-* ⚙️ Automation & n8n
-* 💾 Storage Technologies
-* 📊 Trading Analytics
+| 🖥️ Infrastructure | 🔐 Security              | 📊 Analytics         |
+| ------------------ | ------------------------ | -------------------- |
+| Windows Server     | SOC Operations           | Trading Journal      |
+| Linux              | Log Analysis             | Risk Analysis        |
+| Proxmox            | SIEM Concepts            | Performance Tracking |
+| Hyper-V            | Threat Detection         | Data Visualization   |
+| TrueNAS            | Vulnerability Assessment | Market Analytics     |
 
 ---
 
-## 🏠 Home Lab
+# 🏠 Home Lab Ecosystem
 
 ```text
-Internet
-   │
-pfSense
-   │
-├── Windows Server
-├── Windows Client
-├── Linux
-├── Proxmox
-├── Hyper-V
-└── TrueNAS
+                 INTERNET
+                     │
+                 pfSense
+                     │
+     ┌───────────────┼───────────────┐
+     │               │               │
+
+ Windows Server    Linux         TrueNAS
+     │               │               │
+     └───────────────┼───────────────┘
+                     │
+
+                 Proxmox
+                     │
+
+           Multiple Test Labs
 ```
 
-### Technologies Practiced
+---
+
+# 🎯 Domains I Explore
+
+## 🖥️ Infrastructure Engineering
 
 * Active Directory
 * DNS
 * DHCP
-* SMB
-* VPN
+* Group Policy
 * Virtualization
-* Storage Management
-* Backup Strategies
-* Network Troubleshooting
-
----
+* Storage Administration
 
 ## 🔐 Cybersecurity
 
-```text
-Log Analysis
-Network Monitoring
-Traffic Inspection
-Security Hardening
-Vulnerability Assessment
-Incident Response Concepts
-```
+* SOC Analyst Labs
+* Security Monitoring
+* Log Analysis
+* Threat Hunting Concepts
+* Network Analysis
+* Incident Investigation
 
-### Learning Areas
+## 🛠️ Ethical Hacking Labs
 
-* Windows Security
-* Linux Security
-* Network Security
-* Security Operations (SOC)
-* Threat Detection
-* Risk Management
+* Kali Linux
+* Nmap
+* Wireshark
+* Burp Suite
+* OWASP Concepts
+* Metasploit (Lab Environment)
+* Vulnerability Research
 
----
+## 🌐 Networking
+
+* TCP/IP
+* Routing
+* Switching
+* VLANs
+* VPN
+* SMB
+* FTP
+* SSH
 
 ## ⚙️ Automation
 
-### n8n Workflows
-
-* Automated Notifications
-* Report Generation
-* Data Collection
+* n8n
+* Workflow Design
 * Process Automation
-* AI Assisted Workflows
-
----
+* AI Automation
 
 ## 📊 Trading Analytics
 
-### Areas of Interest
-
 * Intraday Trading
 * Risk Management
-* Trading Journals
+* Trade Journaling
 * Performance Tracking
-* Strategy Documentation
-* Market Analysis
+* Strategy Analysis
+
+## 📋 Project Management
+
+* Agile
+* Scrum
+* Sprint Planning
+* Kanban
+* Documentation
+* Stakeholder Communication
+
+## 🚗 Automotive Technology
+
+* Vehicle Diagnostics
+* ECU Concepts
+* Stage Tuning Research
+* Automotive Electronics
+* Sensor Systems
+
+## 🔌 Electronics
+
+* Circuit Diagnosis
+* Component Testing
+* Mobile Repair
+* Laptop Diagnostics
+* Embedded Systems
 
 ---
 
-## 🛠️ Tools & Technologies
+# 🚀 Featured Repositories
 
-### Infrastructure
+### 🏠 Homelab
+
+Enterprise infrastructure experiments.
+
+### 🔐 Cybersecurity Labs
+
+SOC, monitoring, and security investigations.
+
+### ⚙️ Automation Workflows
+
+n8n projects and automations.
+
+### 📊 Trading Analytics
+
+Trading journal and analysis projects.
+
+### 🚗 Automotive Notes
+
+Diagnostics, tuning, and automotive technology.
+
+### 🔌 Electronics Lab
+
+Repair, troubleshooting, and component analysis.
+
+---
+
+# ⚡ Mindset
 
 ```text
-Windows Server
-Linux
-Hyper-V
-Proxmox
-TrueNAS
-pfSense
-```
-
-### Automation
-
-```text
-n8n
-Git
-GitHub
-PowerShell
-Python
-```
-
-### Networking
-
-```text
-TCP/IP
-DNS
-DHCP
-ICMP
-VPN
-SMB
-FTP
-SSH
+Learn
+  ↓
+Build
+  ↓
+Break
+  ↓
+Fix
+  ↓
+Document
+  ↓
+Improve
 ```
 
 ---
 
-## 📂 Featured Repositories
+<div align="center">
 
-| Repository         | Description                              |
-| ------------------ | ---------------------------------------- |
-| Homelab            | Infrastructure & virtualization projects |
-| Cybersecurity-Labs | Security experiments and notes           |
-| n8n-Workflows      | Automation projects                      |
-| Trading-Journal    | Trading analytics and documentation      |
-| Proxmox-Lab        | Virtualization experiments               |
-| TrueNAS-Lab        | Storage and backup projects              |
+### 🚀 Building Skills Across Technology, Security, Infrastructure & Business
 
----
-
-## 📚 Philosophy
-
-> Learn → Build → Break → Fix → Document → Improve
-
----
-
-## 📫 Connect
-
-* GitHub: https://github.com/YOUR_USERNAME
-* LinkedIn: YOUR_LINKEDIN_URL
-
----
-
-⭐ Always learning. Always building.
-
-
+</div>
 
 <!--
 **nareshraon/nareshraon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
