@@ -2,9 +2,9 @@
 
 # ⚡ NARESH RAO ⚡
 
-### 📋 Product Management | 📊 Trading | 🖥️ Infrastructure | ⚙️ Automation | 🚗 Automotive & Electronics
+### 📋 Product Management | 📊 Trading | 📈 Data Analysis | 🖥️ Infrastructure | ⚙️ Automation
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Product+Manager;Intraday+Trader;Infrastructure+Engineer;SOC+Analyst;DevOps+Builder;"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Product+Manager;Data+Analyst;Intraday+Trader;Infrastructure+Engineer;DevOps+Builder;"/>
 
 </div>
 
@@ -14,6 +14,7 @@
 
 | Domain | Focus Areas & Tools |
 | :--- | :--- |
+| **📈 Data Analysis & BI** | Power BI, Tableau, SQL (Queries, Joins, Subqueries), Advanced Excel (VBA, Power Query, Pivot Tables) |
 | **📋 Product & Project Mgmt** | Agile/Scrum, Sprint Planning, Jira, Confluence, Miro, Asana, Trello, HubSpot CRM |
 | **📊 Trading Analytics** | Intraday Trading, Risk Management, Strategy Analysis, Performance Tracking |
 | **🖥️ Infrastructure & Net** | Active Directory, DNS/DHCP, Group Policy, Virtualization, Storage, TCP/IP, VPNs |
@@ -25,6 +26,7 @@
 
 ## 🚀 Featured Repositories
 
+* **📁 [Data Analysis & BI Insights](https://github.com/nareshraon/data-analysis)** – SQL scripts, interactive Power BI & Tableau dashboards, and advanced Excel models.
 * **📁 [Automation & PM Workflows](https://github.com/nareshraon/automation-workflows)** – Custom n8n pipelines, AI tools, and CRM integrations.
 * **📁 [Trading Analytics](https://github.com/nareshraon/trading-analytics)** – Quantitative trading journals and performance trackers.
 * **📁 [Homelab & Infrastructure](https://github.com/nareshraon/homelab)** – Enterprise network configs, Active Directory labs, and virtualization.
@@ -39,6 +41,6 @@
 
 `Learn` ➔ `Build` ➔ `Break` ➔ `Fix` ➔ `Document` ➔ `Improve`
 
-**Building skills across Technology, Security, Infrastructure & Business.**
+**Building skills across Technology, Analytics, Infrastructure & Business.**
 
 </div>
