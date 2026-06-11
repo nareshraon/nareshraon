@@ -2,9 +2,9 @@
 
 # ⚡ NARESH RAO ⚡
 
-### 🖥️ Infrastructure | 🔐 Cybersecurity | 📊 Trading | 🚗 Automotive | ⚙️ Automation
+### 🖥️ Infrastructure | 🔐 Cybersecurity | 📊 Trading | 🚗 Automotive | ⚙️ Cloud
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Infrastructure+Engineer;System+Administrator;SOC+Analyst+Learner;Home+Lab+Builder;Automation+Enthusiast;Intraday+Trader;Automotive+Technology+Enthusiast;Always+Learning"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Infrastructure+Engineer;System+Administrator;SOC+Analyst;Devops+Builder;Automation+Enthusiast;Intraday+Trader;"/>
 
 </div>
 
