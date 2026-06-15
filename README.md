@@ -2,7 +2,7 @@
 
 # ⚡ NARESH RAO ⚡
 
-### Digital Marketing | 📋 Product Management | 📊 Trading | 📈 Data Analysis | 🖥️ Infrastructure | ⚙️ Automation
+### Digital Marketing | 📋 Product Management | 📊 Trading | 📈 Data Analysis | 🖥️ Infrastructure | ⚙️ Ethical Hacking
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Product+Manager;Data+Analyst;Intraday+Trader;Infrastructure+Engineer;DevOps+Builder;"/>
 
@@ -20,7 +20,6 @@
 | **📈 Data Analysis & BI** | Power BI, Tableau, SQL (Queries, Joins, Subqueries), Advanced Excel (VBA, Power Query, Pivot Tables) |
 | **🖥️ Infrastructure & Net** | Active Directory, DNS/DHCP, Group Policy, Virtualization, Storage, TCP/IP, VPNs |
 | **🔐 CyberSec & Hacking** | SOC Labs, Log Analysis, Threat Hunting, Kali Linux, Nmap, Wireshark, Burp Suite |
-| **⚙️ Automation & Workflows** | n8n Workflows, AI Automation, Process Optimization, Stakeholder Communication |
 | **🚗 Auto & Electronics** | Vehicle Diagnostics, ECU Concepts, Stage Tuning, Embedded Systems, Board Diagnostics |
 
 ---
